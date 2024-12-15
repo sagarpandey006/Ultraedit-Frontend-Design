@@ -25,10 +25,16 @@ This project replicates a modern, professional website design for **UltraEdit**,
 ## 📂 File Structure
 
 UltraEdit-Frontend/
+
 │
+
 ├── index.html         # Main HTML file
+
 ├── style.css          # CSS file for styling
+
 └── assets/            # Folder for images and other static resources
+
+---
 
 ## 🛠️ Technologies Used
 
